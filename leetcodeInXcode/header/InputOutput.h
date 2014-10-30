@@ -10,15 +10,15 @@
 #define leetcodeInXcode_I_O_h
 
 #import <iosfwd>
-#include <ios>
-#include <istream>
-#include <ostream>
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <strstream>
-#include <iomanip>
-#include <streambuf>
-#include <cstdio>
+#import <ios>
+#import <istream>
+#import <ostream>
+#import <iostream>
+#import <fstream>
+#import <sstream>
+#import <strstream>
+#import <iomanip>
+#import <streambuf>
+#import <cstdio>
 
 #endif

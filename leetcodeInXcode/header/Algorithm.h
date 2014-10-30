@@ -9,6 +9,6 @@
 #ifndef leetcodeInXcode_Algorithms_h
 #define leetcodeInXcode_Algorithms_h
 
-#include <algorithm>
+#import <algorithm>
 
 #endif
