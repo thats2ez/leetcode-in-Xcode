@@ -6,10 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include <iostream>
+/*#include "problem.h"*/
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+    /*Solution s;*/
+    
     return 0;
 }

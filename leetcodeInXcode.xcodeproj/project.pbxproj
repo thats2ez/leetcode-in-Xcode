@@ -23,6 +23,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A22066811A01F29D00ED6341 /* Algorithm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Algorithm.h; sourceTree = "<group>"; };
+		A22066821A01F29D00ED6341 /* Container.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Container.h; sourceTree = "<group>"; };
+		A22066831A01F29D00ED6341 /* InputOutput.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InputOutput.h; sourceTree = "<group>"; };
+		A22066841A01F29D00ED6341 /* Numerics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Numerics.h; sourceTree = "<group>"; };
+		A22066891A01F2C900ED6341 /* candy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = candy.h; sourceTree = "<group>"; };
+		A220668A1A01F2C900ED6341 /* Maximum Subarray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Maximum Subarray.h"; sourceTree = "<group>"; };
+		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		A2D42F1719FEC6ED0098F93B /* leetcodeInXcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcodeInXcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D42F1A19FEC6ED0098F93B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -38,6 +45,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A22066801A01F29D00ED6341 /* header */ = {
+			isa = PBXGroup;
+			children = (
+				A22066811A01F29D00ED6341 /* Algorithm.h */,
+				A22066821A01F29D00ED6341 /* Container.h */,
+				A22066831A01F29D00ED6341 /* InputOutput.h */,
+				A22066841A01F29D00ED6341 /* Numerics.h */,
+			);
+			path = header;
+			sourceTree = "<group>";
+		};
+		A22066881A01F2C900ED6341 /* Solution */ = {
+			isa = PBXGroup;
+			children = (
+				A22066891A01F2C900ED6341 /* candy.h */,
+				A220668A1A01F2C900ED6341 /* Maximum Subarray.h */,
+			);
+			path = Solution;
+			sourceTree = "<group>";
+		};
 		A2D42F0E19FEC6ED0098F93B = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +85,9 @@
 			isa = PBXGroup;
 			children = (
 				A2D42F1A19FEC6ED0098F93B /* main.cpp */,
+				A232651D1A01D99E007F6C77 /* Prefix.pch */,
+				A22066881A01F2C900ED6341 /* Solution */,
+				A22066801A01F29D00ED6341 /* header */,
 			);
 			path = leetcodeInXcode;
 			sourceTree = "<group>";
@@ -202,6 +232,13 @@
 		A2D42F1F19FEC6ED0098F93B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = leetcodeInXcode/Prefix.pch;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					Solution/,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -209,6 +246,13 @@
 		A2D42F2019FEC6ED0098F93B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = leetcodeInXcode/Prefix.pch;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					Solution/,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -232,6 +276,7 @@
 				A2D42F2019FEC6ED0098F93B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
