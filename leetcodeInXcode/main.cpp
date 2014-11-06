@@ -6,10 +6,9 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-/*#include "problem.h"*/
+#include "Scramble String.h"
 
 int main() {
-    /*Solution s;*/
-    
+    Solution s;
     return 0;
 }
