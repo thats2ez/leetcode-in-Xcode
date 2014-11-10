@@ -6,12 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Insert Interval.h"
+#include "Merge Intervals.h"
 
 int main() {
     Solution s;
-    vector<Interval> v{Interval(3,5),Interval(12,15)};
-    Interval a(6,6);
-    s.insert(v, a);
+    vector<Interval> v{Interval(1,4),Interval(1,5)};
+    auto result = s.merge(v);
     return 0;
 }
