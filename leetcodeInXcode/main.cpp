@@ -6,12 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Reverse Words in a String.h"
+#include "First Missing Positive.h"
 
 int main() {
     Solution s;
-    string str = "1 ";
-    s.reverseWords(str);
-    cout << str << endl;
+    int array[] = {1,1};
+    cout << s.firstMissingPositive(array, sizeof(array) / sizeof(int)) << endl;
     return 0;
 }
