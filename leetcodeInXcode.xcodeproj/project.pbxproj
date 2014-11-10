@@ -23,11 +23,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A21A31971A0C0CAB00CD41D8 /* Text Justification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Text Justification.h"; sourceTree = "<group>"; };
 		A22066811A01F29D00ED6341 /* Algorithm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Algorithm.h; sourceTree = "<group>"; };
 		A22066821A01F29D00ED6341 /* Container.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Container.h; sourceTree = "<group>"; };
 		A22066831A01F29D00ED6341 /* InputOutput.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InputOutput.h; sourceTree = "<group>"; };
 		A22066841A01F29D00ED6341 /* Numerics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Numerics.h; sourceTree = "<group>"; };
 		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
+		A24A36B71A1021D20018B741 /* Insert Interval.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insert Interval.h"; sourceTree = "<group>"; };
 		A25F456D1A0B611000E713AB /* Distinct Subsequences.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Distinct Subsequences.h"; sourceTree = "<group>"; };
 		A25F456E1A0B611000E713AB /* Largest Rectangle in Histogram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Largest Rectangle in Histogram.h"; sourceTree = "<group>"; };
 		A25F456F1A0B611000E713AB /* Maximal Rectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Maximal Rectangle.h"; sourceTree = "<group>"; };
@@ -85,6 +87,8 @@
 				A25F45781A0B611000E713AB /* Populating Next Right Pointers in Each Node II.h */,
 				A25F45791A0B611000E713AB /* Populating Next Right Pointers in Each Node.h */,
 				A25F457A1A0B611000E713AB /* Recover Binary Search Tree.h */,
+				A21A31971A0C0CAB00CD41D8 /* Text Justification.h */,
+				A24A36B71A1021D20018B741 /* Insert Interval.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
