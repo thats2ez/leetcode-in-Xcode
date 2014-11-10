@@ -6,11 +6,12 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Merge Intervals.h"
+#include "Reverse Words in a String.h"
 
 int main() {
     Solution s;
-    vector<Interval> v{Interval(1,4),Interval(1,5)};
-    auto result = s.merge(v);
+    string str = "1 ";
+    s.reverseWords(str);
+    cout << str << endl;
     return 0;
 }

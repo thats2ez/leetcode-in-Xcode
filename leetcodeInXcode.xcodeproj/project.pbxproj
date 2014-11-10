@@ -31,6 +31,7 @@
 		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		A24A36B71A1021D20018B741 /* Insert Interval.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insert Interval.h"; sourceTree = "<group>"; };
 		A24A36B81A103A330018B741 /* Merge Intervals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Merge Intervals.h"; sourceTree = "<group>"; };
+		A24A36B91A10874B0018B741 /* Reverse Words in a String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse Words in a String.h"; sourceTree = "<group>"; };
 		A25F456D1A0B611000E713AB /* Distinct Subsequences.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Distinct Subsequences.h"; sourceTree = "<group>"; };
 		A25F456E1A0B611000E713AB /* Largest Rectangle in Histogram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Largest Rectangle in Histogram.h"; sourceTree = "<group>"; };
 		A25F456F1A0B611000E713AB /* Maximal Rectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Maximal Rectangle.h"; sourceTree = "<group>"; };
@@ -74,6 +75,7 @@
 		A22066881A01F2C900ED6341 /* Solution */ = {
 			isa = PBXGroup;
 			children = (
+				A24A36B91A10874B0018B741 /* Reverse Words in a String.h */,
 				A25F456D1A0B611000E713AB /* Distinct Subsequences.h */,
 				A25F456E1A0B611000E713AB /* Largest Rectangle in Histogram.h */,
 				A25F456F1A0B611000E713AB /* Maximal Rectangle.h */,
