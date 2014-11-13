@@ -6,19 +6,27 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Sudoku Solver.h"
+#include "Min Stack.h"
 
 int main() {
-    Solution s;
-    vector<vector<char> > board;
-    string grid[] = {"..9748...","7........",".2.1.9...","..7...24.",".64.1.59.",".98...3..","...8.3.2.","........6","...2759.."};
-    for (string s : grid) {
-        vector<char> v;
-        for (char c : s) {
-            v.push_back(c);
-        }
-        board.push_back(v);
-    }
-    s.solveSudoku(board);
+//    Solution s;
+    MinStack s;
+    s.push(2147483646);
+    s.push(2147483646);
+    s.push(2147483647),
+    cout << s.top() << endl;
+    s.pop();
+    cout << s.getMin() << endl;
+    s.pop();
+    cout << s.getMin() << endl;
+    s.pop();
+    s.push(2147483647);
+    cout << s.top() << endl;
+    cout << s.getMin() << endl;
+    s.push(-2147483648);
+    cout << s.top() << endl;
+    cout << s.getMin() << endl;
+    s.pop();
+    cout << s.getMin() << endl;
     return 0;
 }
