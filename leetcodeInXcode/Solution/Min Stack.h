@@ -9,7 +9,7 @@
 class MinStack {
 public:
     void push(int x) {
-        s.push(s.empty() ? 0 : (x xor minV));
+        s.push(x xor minV);
         p.push_back(x < minV || s.empty());
         minV = min(minV, x);
     }
@@ -21,8 +21,6 @@ public:
             minV = minV xor s.top();
         p.pop_back();
         s.pop();
-        if (s.empty())
-            minV = INT_MAX;
     }
     
     int top() {
