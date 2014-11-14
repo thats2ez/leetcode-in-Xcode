@@ -6,27 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Min Stack.h"
+#include "3Sum.h"
 
 int main() {
-//    Solution s;
-    MinStack s;
-    s.push(2147483646);
-    s.push(2147483646);
-    s.push(2147483647),
-    cout << s.top() << endl;
-    s.pop();
-    cout << s.getMin() << endl;
-    s.pop();
-    cout << s.getMin() << endl;
-    s.pop();
-    s.push(2147483647);
-    cout << s.top() << endl;
-    cout << s.getMin() << endl;
-    s.push(-2147483648);
-    cout << s.top() << endl;
-    cout << s.getMin() << endl;
-    s.pop();
-    cout << s.getMin() << endl;
+    Solution s;
+    vector<int> v{-4,-2,-2,-2,0,1,2,2,2,3,3,4,4,6,6};
+    auto result = s.threeSum(v);
     return 0;
 }

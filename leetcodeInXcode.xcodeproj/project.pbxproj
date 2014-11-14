@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A20B52891A153F9800126095 /* 3Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 3Sum.h; sourceTree = "<group>"; };
 		A21A31971A0C0CAB00CD41D8 /* Text Justification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Text Justification.h"; sourceTree = "<group>"; };
 		A22066811A01F29D00ED6341 /* Algorithm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Algorithm.h; sourceTree = "<group>"; };
 		A22066821A01F29D00ED6341 /* Container.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Container.h; sourceTree = "<group>"; };
@@ -101,6 +102,7 @@
 				A2C7783D1A12D8410097C2D0 /* Sudoku Solver.h */,
 				A27DBDC41A14075200495CAF /* Plus One.h */,
 				A27DBDC51A14183C00495CAF /* Min Stack.h */,
+				A20B52891A153F9800126095 /* 3Sum.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
