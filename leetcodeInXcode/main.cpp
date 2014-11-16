@@ -6,11 +6,12 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "4Sum.h"
+#include "Reorder List.h"
 
 int main() {
     Solution s;
-    vector<int> v{-5,-4,-3,-2,-1,0,0,1,2,3,4,5};
-    auto result = s.fourSum(v, 0);
+    ListNode a(1), b(2);
+    a.next = &b;
+    s.reorderList(&a);
     return 0;
 }

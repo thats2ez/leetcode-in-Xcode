@@ -31,6 +31,7 @@
 		A22066841A01F29D00ED6341 /* Numerics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Numerics.h; sourceTree = "<group>"; };
 		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		A23BABAE1A1724D60022740A /* 4Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 4Sum.h; sourceTree = "<group>"; };
+		A23F083F1A18AB1B001CCD7F /* Reorder List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reorder List.h"; sourceTree = "<group>"; };
 		A24A36B71A1021D20018B741 /* Insert Interval.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insert Interval.h"; sourceTree = "<group>"; };
 		A24A36B81A103A330018B741 /* Merge Intervals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Merge Intervals.h"; sourceTree = "<group>"; };
 		A24A36B91A10874B0018B741 /* Reverse Words in a String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse Words in a String.h"; sourceTree = "<group>"; };
@@ -105,6 +106,7 @@
 				A27DBDC51A14183C00495CAF /* Min Stack.h */,
 				A20B52891A153F9800126095 /* 3Sum.h */,
 				A23BABAE1A1724D60022740A /* 4Sum.h */,
+				A23F083F1A18AB1B001CCD7F /* Reorder List.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
