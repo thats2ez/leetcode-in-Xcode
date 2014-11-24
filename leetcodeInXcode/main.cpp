@@ -6,10 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Path Sum II.h"
+#include "Permutation Sequence.h"
 
 int main() {
     Solution s;
-    s.pathSum(nullptr, 0);
+    auto result = s.getPermutation(1, 1);
     return 0;
 }
