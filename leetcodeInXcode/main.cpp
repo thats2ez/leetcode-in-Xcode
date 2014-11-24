@@ -6,10 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Container With Most Water.h"
+#include "Substring with Concatenation of All Words.h"
 
 int main() {
     Solution s;
-
+    vector<string> L{"foo", "bar"};
+    auto result = s.findSubstring("barfoothefoobarman", L);
     return 0;
 }
