@@ -52,6 +52,7 @@
 		A25F45791A0B611000E713AB /* Populating Next Right Pointers in Each Node.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Populating Next Right Pointers in Each Node.h"; sourceTree = "<group>"; };
 		A25F457A1A0B611000E713AB /* Recover Binary Search Tree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Recover Binary Search Tree.h"; sourceTree = "<group>"; };
 		A26E0F961A22D81D00B02EAB /* Path Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum II.h"; sourceTree = "<group>"; };
+		A26E0F971A23026100B02EAB /* Convert Sorted List to Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Convert Sorted List to Binary Search Tree.h"; sourceTree = "<group>"; };
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
@@ -115,6 +116,7 @@
 				A23BA5781A1C68B200F69AD5 /* Container With Most Water.h */,
 				A2E8ECD41A209316005C80FC /* Substring with Concatenation of All Words.h */,
 				A26E0F961A22D81D00B02EAB /* Path Sum II.h */,
+				A26E0F971A23026100B02EAB /* Convert Sorted List to Binary Search Tree.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
