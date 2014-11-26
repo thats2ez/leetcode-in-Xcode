@@ -6,10 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Permutation Sequence.h"
+#include "Clone Graph.h"
 
 int main() {
     Solution s;
-    auto result = s.getPermutation(1, 1);
+    s.cloneGraph(nullptr);
     return 0;
 }
