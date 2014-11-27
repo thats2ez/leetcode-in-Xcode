@@ -29,6 +29,7 @@
 		A22066821A01F29D00ED6341 /* Container.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Container.h; sourceTree = "<group>"; };
 		A22066831A01F29D00ED6341 /* InputOutput.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InputOutput.h; sourceTree = "<group>"; };
 		A22066841A01F29D00ED6341 /* Numerics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Numerics.h; sourceTree = "<group>"; };
+		A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ZigZag Conversion.h"; sourceTree = "<group>"; };
 		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		A23BA5781A1C68B200F69AD5 /* Container With Most Water.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Container With Most Water.h"; sourceTree = "<group>"; };
 		A23BABAE1A1724D60022740A /* 4Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 4Sum.h; sourceTree = "<group>"; };
@@ -125,6 +126,7 @@
 				A2B7F5901A2585CC000DE070 /* Combination Sum.h */,
 				A2B7F5911A2585E7000DE070 /* Combination Sum II.h */,
 				A2B7F5921A258BB2000DE070 /* Clone Graph.h */,
+				A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";

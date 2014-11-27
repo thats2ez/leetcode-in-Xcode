@@ -6,10 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Clone Graph.h"
+#include "ZigZag Conversion.h"
 
 int main() {
     Solution s;
-    s.cloneGraph(nullptr);
+    s.convert("", 1);
     return 0;
 }
