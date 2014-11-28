@@ -35,6 +35,8 @@
 		A22D3E331A28484D007E4528 /* Spiral Matrix II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Spiral Matrix II.h"; sourceTree = "<group>"; };
 		A22D3E341A284C8F007E4528 /* Best Time to Buy and Sell Stock.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Best Time to Buy and Sell Stock.h"; sourceTree = "<group>"; };
 		A22D3E351A284E36007E4528 /* Best Time to Buy and Sell Stock II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Best Time to Buy and Sell Stock II.h"; sourceTree = "<group>"; };
+		A22D3E361A287B8C007E4528 /* Best Time to Buy and Sell Stock III.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Best Time to Buy and Sell Stock III.h"; sourceTree = "<group>"; };
+		A22D3E371A287D50007E4528 /* Binary Tree Preorder Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Tree Preorder Traversal.h"; sourceTree = "<group>"; };
 		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		A23BA5781A1C68B200F69AD5 /* Container With Most Water.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Container With Most Water.h"; sourceTree = "<group>"; };
 		A23BABAE1A1724D60022740A /* 4Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 4Sum.h; sourceTree = "<group>"; };
@@ -137,6 +139,8 @@
 				A22D3E331A28484D007E4528 /* Spiral Matrix II.h */,
 				A22D3E341A284C8F007E4528 /* Best Time to Buy and Sell Stock.h */,
 				A22D3E351A284E36007E4528 /* Best Time to Buy and Sell Stock II.h */,
+				A22D3E361A287B8C007E4528 /* Best Time to Buy and Sell Stock III.h */,
+				A22D3E371A287D50007E4528 /* Binary Tree Preorder Traversal.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
