@@ -6,10 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "ZigZag Conversion.h"
+#include "Unique Binary Search Trees II.h"
 
 int main() {
     Solution s;
-    s.convert("", 1);
+    auto result = s.generateTrees(2);
     return 0;
 }
