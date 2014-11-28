@@ -32,6 +32,7 @@
 		A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ZigZag Conversion.h"; sourceTree = "<group>"; };
 		A22D3E311A27EF4B007E4528 /* Unique Binary Search Trees.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Unique Binary Search Trees.h"; sourceTree = "<group>"; };
 		A22D3E321A27FC53007E4528 /* Unique Binary Search Trees II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Unique Binary Search Trees II.h"; sourceTree = "<group>"; };
+		A22D3E331A28484D007E4528 /* Spiral Matrix II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Spiral Matrix II.h"; sourceTree = "<group>"; };
 		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		A23BA5781A1C68B200F69AD5 /* Container With Most Water.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Container With Most Water.h"; sourceTree = "<group>"; };
 		A23BABAE1A1724D60022740A /* 4Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 4Sum.h; sourceTree = "<group>"; };
@@ -131,6 +132,7 @@
 				A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */,
 				A22D3E311A27EF4B007E4528 /* Unique Binary Search Trees.h */,
 				A22D3E321A27FC53007E4528 /* Unique Binary Search Trees II.h */,
+				A22D3E331A28484D007E4528 /* Spiral Matrix II.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
