@@ -67,6 +67,8 @@
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
+		A2B7CF641A2FD47800472241 /* Word Ladder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Word Ladder.h"; sourceTree = "<group>"; };
+		A2B7CF651A301A7300472241 /* Word Ladder II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Word Ladder II.h"; sourceTree = "<group>"; };
 		A2B7F5901A2585CC000DE070 /* Combination Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum.h"; sourceTree = "<group>"; };
 		A2B7F5911A2585E7000DE070 /* Combination Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum II.h"; sourceTree = "<group>"; };
 		A2B7F5921A258BB2000DE070 /* Clone Graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Clone Graph.h"; sourceTree = "<group>"; };
@@ -145,6 +147,8 @@
 				A22D3E371A287D50007E4528 /* Binary Tree Preorder Traversal.h */,
 				A22D3E381A288208007E4528 /* Rotate Image.h */,
 				A2525AC81A2B0D470043A528 /* Intersection of Two Linked Lists.h */,
+				A2B7CF641A2FD47800472241 /* Word Ladder.h */,
+				A2B7CF651A301A7300472241 /* Word Ladder II.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
