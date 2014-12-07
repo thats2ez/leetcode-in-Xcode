@@ -42,6 +42,8 @@
 		A23BA5781A1C68B200F69AD5 /* Container With Most Water.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Container With Most Water.h"; sourceTree = "<group>"; };
 		A23BABAE1A1724D60022740A /* 4Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 4Sum.h; sourceTree = "<group>"; };
 		A23F083F1A18AB1B001CCD7F /* Reorder List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reorder List.h"; sourceTree = "<group>"; };
+		A23F86CE1A339AE8008C297D /* Reverse Linked List II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse Linked List II.h"; sourceTree = "<group>"; };
+		A23F86CF1A33F67F008C297D /* Subsets II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Subsets II.h"; sourceTree = "<group>"; };
 		A24A36B71A1021D20018B741 /* Insert Interval.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insert Interval.h"; sourceTree = "<group>"; };
 		A24A36B81A103A330018B741 /* Merge Intervals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Merge Intervals.h"; sourceTree = "<group>"; };
 		A24A36B91A10874B0018B741 /* Reverse Words in a String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse Words in a String.h"; sourceTree = "<group>"; };
@@ -149,6 +151,8 @@
 				A2525AC81A2B0D470043A528 /* Intersection of Two Linked Lists.h */,
 				A2B7CF641A2FD47800472241 /* Word Ladder.h */,
 				A2B7CF651A301A7300472241 /* Word Ladder II.h */,
+				A23F86CE1A339AE8008C297D /* Reverse Linked List II.h */,
+				A23F86CF1A33F67F008C297D /* Subsets II.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
