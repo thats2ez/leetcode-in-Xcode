@@ -71,6 +71,7 @@
 		A26E0F981A23102700B02EAB /* Permutation Sequence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Permutation Sequence.h"; sourceTree = "<group>"; };
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
+		A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
 		A2B7CF641A2FD47800472241 /* Word Ladder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Word Ladder.h"; sourceTree = "<group>"; };
 		A2B7CF651A301A7300472241 /* Word Ladder II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Word Ladder II.h"; sourceTree = "<group>"; };
@@ -161,6 +162,7 @@
 				A2F4C3C81A3A54D800D30458 /* Surrounded Regions.h */,
 				A23ABB2B1A3AC0410015BDA0 /* Binary Tree Level Order Traversal II.h */,
 				A23ABB2C1A3AC9E00015BDA0 /* Find Peak Element.h */,
+				A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
