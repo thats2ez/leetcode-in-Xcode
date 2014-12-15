@@ -70,6 +70,7 @@
 		A26E0F971A23026100B02EAB /* Convert Sorted List to Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Convert Sorted List to Binary Search Tree.h"; sourceTree = "<group>"; };
 		A26E0F981A23102700B02EAB /* Permutation Sequence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Permutation Sequence.h"; sourceTree = "<group>"; };
 		A26F4DB81A3F7BDA00DC45B2 /* Maximum Product Subarray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Maximum Product Subarray.h"; sourceTree = "<group>"; };
+		A26F4DB91A3F9FDB00DC45B2 /* Gas Station.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Gas Station.h"; sourceTree = "<group>"; };
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
 		A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
@@ -171,6 +172,7 @@
 				A2C248FD1A3E7BB800A5DC03 /* Maximum Gap.h */,
 				A2C0C9BA1A3EE1D800C15F48 /* Evaluate Reverse Polish Notation.h */,
 				A26F4DB81A3F7BDA00DC45B2 /* Maximum Product Subarray.h */,
+				A26F4DB91A3F9FDB00DC45B2 /* Gas Station.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
