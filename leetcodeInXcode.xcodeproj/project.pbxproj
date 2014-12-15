@@ -79,6 +79,7 @@
 		A2B7F5901A2585CC000DE070 /* Combination Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum.h"; sourceTree = "<group>"; };
 		A2B7F5911A2585E7000DE070 /* Combination Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum II.h"; sourceTree = "<group>"; };
 		A2B7F5921A258BB2000DE070 /* Clone Graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Clone Graph.h"; sourceTree = "<group>"; };
+		A2C0C9BA1A3EE1D800C15F48 /* Evaluate Reverse Polish Notation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Evaluate Reverse Polish Notation.h"; sourceTree = "<group>"; };
 		A2C248FD1A3E7BB800A5DC03 /* Maximum Gap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Maximum Gap.h"; sourceTree = "<group>"; };
 		A2C7783D1A12D8410097C2D0 /* Sudoku Solver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sudoku Solver.h"; sourceTree = "<group>"; };
 		A2D42F1719FEC6ED0098F93B /* leetcodeInXcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcodeInXcode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -167,6 +168,7 @@
 				A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */,
 				A2A614C11A3D27A8004CB131 /* Wildcard Matching.h */,
 				A2C248FD1A3E7BB800A5DC03 /* Maximum Gap.h */,
+				A2C0C9BA1A3EE1D800C15F48 /* Evaluate Reverse Polish Notation.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
