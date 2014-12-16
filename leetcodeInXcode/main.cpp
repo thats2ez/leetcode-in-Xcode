@@ -6,15 +6,12 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Longest Palindromic Substring.h"
+#include "Path Sum.h"
 
 int main() {
     Solution s;
-    string str("aaabaaaa");
-    str = "bb";
-//    str = "abb";
-    str = "ccd";
-    auto result = s.longestPalindrome(str);
+    TreeNode *root = new TreeNode(1);
+    auto result = s.hasPathSum(root, 1);
     cout << result << endl;
     return 0;
 }
