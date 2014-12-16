@@ -73,6 +73,7 @@
 		A26F4DB91A3F9FDB00DC45B2 /* Gas Station.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Gas Station.h"; sourceTree = "<group>"; };
 		A26F4DBA1A3FAF1100DC45B2 /* Pascal's Triangle II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pascal's Triangle II.h"; sourceTree = "<group>"; };
 		A26F4DBB1A3FB7BC00DC45B2 /* Simplify Path.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Simplify Path.h"; sourceTree = "<group>"; };
+		A26F4DBC1A3FC3FF00DC45B2 /* Longest Palindromic Substring.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Palindromic Substring.h"; sourceTree = "<group>"; };
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
 		A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
@@ -177,6 +178,7 @@
 				A26F4DB91A3F9FDB00DC45B2 /* Gas Station.h */,
 				A26F4DBA1A3FAF1100DC45B2 /* Pascal's Triangle II.h */,
 				A26F4DBB1A3FB7BC00DC45B2 /* Simplify Path.h */,
+				A26F4DBC1A3FC3FF00DC45B2 /* Longest Palindromic Substring.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
