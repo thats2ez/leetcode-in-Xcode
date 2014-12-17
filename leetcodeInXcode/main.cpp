@@ -6,11 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Fraction to Recurring Decimal.h"
+#include "Palindrome Number.h"
 
 int main() {
     Solution s;
-    auto result = s.fractionToDecimal(-1, -2147483648);
+    auto result = s.isPalindrome(1874994781);
     cout << result << endl;
     return 0;
 }

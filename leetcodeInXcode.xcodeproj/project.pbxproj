@@ -80,6 +80,7 @@
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
 		A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Compare Version Numbers.h"; sourceTree = "<group>"; };
 		A2930E7B1A416F950094B31E /* Fraction to Recurring Decimal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Fraction to Recurring Decimal.h"; sourceTree = "<group>"; };
+		A2930E7C1A4244D40094B31E /* Palindrome Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Palindrome Number.h"; sourceTree = "<group>"; };
 		A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
 		A2A614C11A3D27A8004CB131 /* Wildcard Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Wildcard Matching.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
@@ -187,6 +188,7 @@
 				A26F4DBE1A3FE65600DC45B2 /* Longest Substring Without Repeating Characters.h */,
 				A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */,
 				A2930E7B1A416F950094B31E /* Fraction to Recurring Decimal.h */,
+				A2930E7C1A4244D40094B31E /* Palindrome Number.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
