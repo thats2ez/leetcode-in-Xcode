@@ -75,8 +75,10 @@
 		A26F4DBB1A3FB7BC00DC45B2 /* Simplify Path.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Simplify Path.h"; sourceTree = "<group>"; };
 		A26F4DBC1A3FC3FF00DC45B2 /* Longest Palindromic Substring.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Palindromic Substring.h"; sourceTree = "<group>"; };
 		A26F4DBD1A3FDE3700DC45B2 /* Path Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum.h"; sourceTree = "<group>"; };
+		A26F4DBE1A3FE65600DC45B2 /* Longest Substring Without Repeating Characters.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Substring Without Repeating Characters.h"; sourceTree = "<group>"; };
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
+		A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Compare Version Numbers.h"; sourceTree = "<group>"; };
 		A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
 		A2A614C11A3D27A8004CB131 /* Wildcard Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Wildcard Matching.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
@@ -181,6 +183,8 @@
 				A26F4DBB1A3FB7BC00DC45B2 /* Simplify Path.h */,
 				A26F4DBC1A3FC3FF00DC45B2 /* Longest Palindromic Substring.h */,
 				A26F4DBD1A3FDE3700DC45B2 /* Path Sum.h */,
+				A26F4DBE1A3FE65600DC45B2 /* Longest Substring Without Repeating Characters.h */,
+				A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
