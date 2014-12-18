@@ -81,6 +81,7 @@
 		A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Compare Version Numbers.h"; sourceTree = "<group>"; };
 		A2930E7B1A416F950094B31E /* Fraction to Recurring Decimal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Fraction to Recurring Decimal.h"; sourceTree = "<group>"; };
 		A2930E7C1A4244D40094B31E /* Palindrome Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Palindrome Number.h"; sourceTree = "<group>"; };
+		A2930E7D1A426B1E0094B31E /* Next Permutation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Next Permutation.h"; sourceTree = "<group>"; };
 		A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
 		A2A614C11A3D27A8004CB131 /* Wildcard Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Wildcard Matching.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
@@ -189,6 +190,7 @@
 				A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */,
 				A2930E7B1A416F950094B31E /* Fraction to Recurring Decimal.h */,
 				A2930E7C1A4244D40094B31E /* Palindrome Number.h */,
+				A2930E7D1A426B1E0094B31E /* Next Permutation.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
