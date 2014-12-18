@@ -6,11 +6,13 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Palindrome Number.h"
+#include "Count and Say.h"
 
 int main() {
     Solution s;
-    auto result = s.isPalindrome(1874994781);
-    cout << result << endl;
+    for (int i = 0; i < 5; i++) {
+        auto result = s.countAndSay(i);
+        cout << result << endl;
+    }
     return 0;
 }
