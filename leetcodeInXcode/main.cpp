@@ -6,13 +6,12 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Count and Say.h"
+#include "Sort List.h"
 
 int main() {
     Solution s;
-    for (int i = 0; i < 5; i++) {
-        auto result = s.countAndSay(i);
-        cout << result << endl;
-    }
+    ListNode *head = new ListNode(1);
+    head->next = new ListNode(2);
+    s.sortList(head);
     return 0;
 }
