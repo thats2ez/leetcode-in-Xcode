@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		A20B52891A153F9800126095 /* 3Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 3Sum.h; sourceTree = "<group>"; };
+		A212C8191A45589C0058F9BC /* Construct Binary Tree from Preorder and Inorder Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Construct Binary Tree from Preorder and Inorder Traversal.h"; sourceTree = "<group>"; };
 		A21A31971A0C0CAB00CD41D8 /* Text Justification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Text Justification.h"; sourceTree = "<group>"; };
 		A22066811A01F29D00ED6341 /* Algorithm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Algorithm.h; sourceTree = "<group>"; };
 		A22066821A01F29D00ED6341 /* Container.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Container.h; sourceTree = "<group>"; };
@@ -84,6 +85,7 @@
 		A2930E7D1A426B1E0094B31E /* Next Permutation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Next Permutation.h"; sourceTree = "<group>"; };
 		A2930E7E1A426EAD0094B31E /* Count and Say.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Count and Say.h"; sourceTree = "<group>"; };
 		A2930E7F1A4274130094B31E /* Sort List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sort List.h"; sourceTree = "<group>"; };
+		A2930E801A42790B0094B31E /* Insertion Sort List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insertion Sort List.h"; sourceTree = "<group>"; };
 		A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
 		A2A614C11A3D27A8004CB131 /* Wildcard Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Wildcard Matching.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
@@ -195,6 +197,8 @@
 				A2930E7D1A426B1E0094B31E /* Next Permutation.h */,
 				A2930E7E1A426EAD0094B31E /* Count and Say.h */,
 				A2930E7F1A4274130094B31E /* Sort List.h */,
+				A2930E801A42790B0094B31E /* Insertion Sort List.h */,
+				A212C8191A45589C0058F9BC /* Construct Binary Tree from Preorder and Inorder Traversal.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
