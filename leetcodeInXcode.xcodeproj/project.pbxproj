@@ -31,6 +31,7 @@
 		A22066821A01F29D00ED6341 /* Container.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Container.h; sourceTree = "<group>"; };
 		A22066831A01F29D00ED6341 /* InputOutput.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InputOutput.h; sourceTree = "<group>"; };
 		A22066841A01F29D00ED6341 /* Numerics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Numerics.h; sourceTree = "<group>"; };
+		A224A7AA1A4953DA005A5086 /* Majority Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Majority Element.h"; sourceTree = "<group>"; };
 		A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ZigZag Conversion.h"; sourceTree = "<group>"; };
 		A22D3E311A27EF4B007E4528 /* Unique Binary Search Trees.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Unique Binary Search Trees.h"; sourceTree = "<group>"; };
 		A22D3E321A27FC53007E4528 /* Unique Binary Search Trees II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Unique Binary Search Trees II.h"; sourceTree = "<group>"; };
@@ -201,6 +202,7 @@
 				A2930E801A42790B0094B31E /* Insertion Sort List.h */,
 				A212C8191A45589C0058F9BC /* Construct Binary Tree from Preorder and Inorder Traversal.h */,
 				A212C81A1A455FF60058F9BC /* Construct Binary Tree from Inorder and Postorder Traversal.h */,
+				A224A7AA1A4953DA005A5086 /* Majority Element.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
