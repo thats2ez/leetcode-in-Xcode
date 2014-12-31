@@ -79,6 +79,7 @@
 		A26F4DBC1A3FC3FF00DC45B2 /* Longest Palindromic Substring.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Palindromic Substring.h"; sourceTree = "<group>"; };
 		A26F4DBD1A3FDE3700DC45B2 /* Path Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum.h"; sourceTree = "<group>"; };
 		A26F4DBE1A3FE65600DC45B2 /* Longest Substring Without Repeating Characters.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Substring Without Repeating Characters.h"; sourceTree = "<group>"; };
+		A2719BA11A53FAAB00C6A613 /* Excel Sheet Column Title.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Title.h"; sourceTree = "<group>"; };
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
 		A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Compare Version Numbers.h"; sourceTree = "<group>"; };
@@ -203,6 +204,7 @@
 				A212C8191A45589C0058F9BC /* Construct Binary Tree from Preorder and Inorder Traversal.h */,
 				A212C81A1A455FF60058F9BC /* Construct Binary Tree from Inorder and Postorder Traversal.h */,
 				A224A7AA1A4953DA005A5086 /* Majority Element.h */,
+				A2719BA11A53FAAB00C6A613 /* Excel Sheet Column Title.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
