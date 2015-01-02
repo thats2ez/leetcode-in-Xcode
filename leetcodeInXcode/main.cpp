@@ -6,12 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Sort List.h"
+#include "N-Queens.h"
 
 int main() {
     Solution s;
-    ListNode *head = new ListNode(1);
-    head->next = new ListNode(2);
-    s.sortList(head);
+    auto result = s.solveNQueens(4);
     return 0;
 }

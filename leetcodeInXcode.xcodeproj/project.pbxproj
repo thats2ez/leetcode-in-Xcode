@@ -85,6 +85,7 @@
 		A2719BA61A5479FD00C6A613 /* Factorial Trailing Zeroes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Factorial Trailing Zeroes.h"; sourceTree = "<group>"; };
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
+		A28449231A575447008ECB92 /* N-Queens.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "N-Queens.h"; sourceTree = "<group>"; };
 		A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Compare Version Numbers.h"; sourceTree = "<group>"; };
 		A2930E7B1A416F950094B31E /* Fraction to Recurring Decimal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Fraction to Recurring Decimal.h"; sourceTree = "<group>"; };
 		A2930E7C1A4244D40094B31E /* Palindrome Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Palindrome Number.h"; sourceTree = "<group>"; };
@@ -211,6 +212,7 @@
 				A2719BA21A53FC1500C6A613 /* Excel Sheet Column Number.h */,
 				A2719BA31A54058C00C6A613 /* Binary Search Tree Iterator.h */,
 				A2719BA61A5479FD00C6A613 /* Factorial Trailing Zeroes.h */,
+				A28449231A575447008ECB92 /* N-Queens.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
