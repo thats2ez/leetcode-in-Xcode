@@ -48,6 +48,7 @@
 		A23ABB2C1A3AC9E00015BDA0 /* Find Peak Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Find Peak Element.h"; sourceTree = "<group>"; };
 		A23BA5781A1C68B200F69AD5 /* Container With Most Water.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Container With Most Water.h"; sourceTree = "<group>"; };
 		A23BABAE1A1724D60022740A /* 4Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 4Sum.h; sourceTree = "<group>"; };
+		A23E56AA1A6F7B6700ABB24C /* Largest Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Largest Number.h"; sourceTree = "<group>"; };
 		A23F083F1A18AB1B001CCD7F /* Reorder List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reorder List.h"; sourceTree = "<group>"; };
 		A23F86CE1A339AE8008C297D /* Reverse Linked List II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse Linked List II.h"; sourceTree = "<group>"; };
 		A23F86CF1A33F67F008C297D /* Subsets II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Subsets II.h"; sourceTree = "<group>"; };
@@ -219,6 +220,7 @@
 				A28449241A5778B4008ECB92 /* N-Queens II.h */,
 				A208989F1A5930E4000F998F /* Decode Ways.h */,
 				A23A7C001A69D85500CA25AA /* Dungeon Game.h */,
+				A23E56AA1A6F7B6700ABB24C /* Largest Number.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
