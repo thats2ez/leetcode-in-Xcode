@@ -43,6 +43,7 @@
 		A22D3E371A287D50007E4528 /* Binary Tree Preorder Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Tree Preorder Traversal.h"; sourceTree = "<group>"; };
 		A22D3E381A288208007E4528 /* Rotate Image.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Rotate Image.h"; sourceTree = "<group>"; };
 		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
+		A23A7C001A69D85500CA25AA /* Dungeon Game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Dungeon Game.h"; sourceTree = "<group>"; };
 		A23ABB2B1A3AC0410015BDA0 /* Binary Tree Level Order Traversal II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Tree Level Order Traversal II.h"; sourceTree = "<group>"; };
 		A23ABB2C1A3AC9E00015BDA0 /* Find Peak Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Find Peak Element.h"; sourceTree = "<group>"; };
 		A23BA5781A1C68B200F69AD5 /* Container With Most Water.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Container With Most Water.h"; sourceTree = "<group>"; };
@@ -217,6 +218,7 @@
 				A28449231A575447008ECB92 /* N-Queens.h */,
 				A28449241A5778B4008ECB92 /* N-Queens II.h */,
 				A208989F1A5930E4000F998F /* Decode Ways.h */,
+				A23A7C001A69D85500CA25AA /* Dungeon Game.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
