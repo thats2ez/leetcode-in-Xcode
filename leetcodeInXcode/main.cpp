@@ -6,11 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "3Sum Closest.h"
+#include "4Sum.h"
 
 int main() {
     Solution s;
-    vector<int> num{1,1,1,0};
-    auto result = s.threeSumClosest(num, 100);
+    vector<int> num{0,0,0,0};
+    auto result = s.fourSum(num, 0);
     return 0;
 }
