@@ -53,6 +53,7 @@
 		A23F86CE1A339AE8008C297D /* Reverse Linked List II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse Linked List II.h"; sourceTree = "<group>"; };
 		A23F86CF1A33F67F008C297D /* Subsets II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Subsets II.h"; sourceTree = "<group>"; };
 		A23F86D01A342C44008C297D /* Single Number II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Single Number II.h"; sourceTree = "<group>"; };
+		A24676961A8BE9530000E440 /* Remove Duplicates from Sorted Array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Remove Duplicates from Sorted Array.h"; sourceTree = "<group>"; };
 		A24A36B71A1021D20018B741 /* Insert Interval.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insert Interval.h"; sourceTree = "<group>"; };
 		A24A36B81A103A330018B741 /* Merge Intervals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Merge Intervals.h"; sourceTree = "<group>"; };
 		A24A36B91A10874B0018B741 /* Reverse Words in a String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse Words in a String.h"; sourceTree = "<group>"; };
@@ -231,6 +232,7 @@
 				A25D26841A8AE95E00ED7918 /* Remove Nth Node From End of List.h */,
 				A25D26851A8AEEF800ED7918 /* Merge Two Sorted Lists.h */,
 				A25D26861A8AF1AB00ED7918 /* Generate Parentheses.h */,
+				A24676961A8BE9530000E440 /* Remove Duplicates from Sorted Array.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
