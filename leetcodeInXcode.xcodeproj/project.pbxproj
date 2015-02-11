@@ -59,7 +59,8 @@
 		A24A36BA1A1099820018B741 /* First Missing Positive.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "First Missing Positive.h"; sourceTree = "<group>"; };
 		A2525AC81A2B0D470043A528 /* Intersection of Two Linked Lists.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Intersection of Two Linked Lists.h"; sourceTree = "<group>"; };
 		A25D26821A89B38600ED7918 /* 3Sum Closest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "3Sum Closest.h"; sourceTree = "<group>"; };
-		A25D26831A89C39E00ED7918 /* Letter Combinations of a Phone Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Letter Combinations of a Phone Number.h"; sourceTree = "<group>"; };
+		A25D26831A89C39E00ED7918 /* Letter Combinations of a Phone Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Letter Combinations of a Phone Number.h"; path = "../Letter Combinations of a Phone Number.h"; sourceTree = "<group>"; };
+		A25D26841A8AE95E00ED7918 /* Remove Nth Node From End of List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Remove Nth Node From End of List.h"; sourceTree = "<group>"; };
 		A25F456D1A0B611000E713AB /* Distinct Subsequences.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Distinct Subsequences.h"; sourceTree = "<group>"; };
 		A25F456E1A0B611000E713AB /* Largest Rectangle in Histogram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Largest Rectangle in Histogram.h"; sourceTree = "<group>"; };
 		A25F456F1A0B611000E713AB /* Maximal Rectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Maximal Rectangle.h"; sourceTree = "<group>"; };
@@ -141,6 +142,7 @@
 		A22066881A01F2C900ED6341 /* Solution */ = {
 			isa = PBXGroup;
 			children = (
+				A25D26831A89C39E00ED7918 /* Letter Combinations of a Phone Number.h */,
 				A24A36B91A10874B0018B741 /* Reverse Words in a String.h */,
 				A25F456D1A0B611000E713AB /* Distinct Subsequences.h */,
 				A25F456E1A0B611000E713AB /* Largest Rectangle in Histogram.h */,
@@ -224,6 +226,7 @@
 				A23A7C001A69D85500CA25AA /* Dungeon Game.h */,
 				A23E56AA1A6F7B6700ABB24C /* Largest Number.h */,
 				A25D26821A89B38600ED7918 /* 3Sum Closest.h */,
+				A25D26841A8AE95E00ED7918 /* Remove Nth Node From End of List.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
@@ -251,7 +254,6 @@
 				A232651D1A01D99E007F6C77 /* Prefix.pch */,
 				A22066881A01F2C900ED6341 /* Solution */,
 				A22066801A01F29D00ED6341 /* header */,
-				A25D26831A89C39E00ED7918 /* Letter Combinations of a Phone Number.h */,
 			);
 			path = leetcodeInXcode;
 			sourceTree = "<group>";
