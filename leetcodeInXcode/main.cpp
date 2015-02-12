@@ -6,11 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "4Sum.h"
+#include "Substring with Concatenation of All Words.h"
 
 int main() {
     Solution s;
-    vector<int> num{0,0,0,0};
-    auto result = s.fourSum(num, 0);
+    vector<string> L{"foo","bar"};
+    auto result = s.findSubstring("barfoothefoobarman", L);
     return 0;
 }
