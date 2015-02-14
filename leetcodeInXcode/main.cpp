@@ -6,11 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Search in Rotated Sorted Array.h"
+#include "Search for a Range.h"
 
 int main() {
     Solution s;
-    int A[] = {3,1};
-    auto result = s.search(A, sizeof(A)/sizeof(int), 1);
+    int A[] = {2,2};
+    auto result = s.searchRange(A, sizeof(A)/sizeof(int), 2);
     return 0;
 }
