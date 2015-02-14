@@ -10,7 +10,7 @@
 
 int main() {
     Solution s;
-    int A[] = {2,2};
+    int A[] = {1};
     auto result = s.searchRange(A, sizeof(A)/sizeof(int), 2);
     return 0;
 }
