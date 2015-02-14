@@ -6,11 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Substring with Concatenation of All Words.h"
+#include "Search in Rotated Sorted Array.h"
 
 int main() {
     Solution s;
-    vector<string> L{"foo","bar"};
-    auto result = s.findSubstring("barfoothefoobarman", L);
+    int A[] = {3,1};
+    auto result = s.search(A, sizeof(A)/sizeof(int), 1);
     return 0;
 }
