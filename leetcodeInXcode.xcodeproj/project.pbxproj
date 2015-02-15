@@ -28,6 +28,7 @@
 		A209681B1A8F4ECD00B2AFFB /* Search for a Range.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Search for a Range.h"; sourceTree = "<group>"; };
 		A209681C1A8FDCBD00B2AFFB /* Search Insert Position.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Search Insert Position.h"; sourceTree = "<group>"; };
 		A209681D1A90429700B2AFFB /* Trapping Rain Water.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Trapping Rain Water.h"; sourceTree = "<group>"; };
+		A209681E1A9057AF00B2AFFB /* Jump Game II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Jump Game II.h"; sourceTree = "<group>"; };
 		A20B52891A153F9800126095 /* 3Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 3Sum.h; sourceTree = "<group>"; };
 		A212C8191A45589C0058F9BC /* Construct Binary Tree from Preorder and Inorder Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Construct Binary Tree from Preorder and Inorder Traversal.h"; sourceTree = "<group>"; };
 		A212C81A1A455FF60058F9BC /* Construct Binary Tree from Inorder and Postorder Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Construct Binary Tree from Inorder and Postorder Traversal.h"; sourceTree = "<group>"; };
@@ -243,6 +244,7 @@
 				A209681B1A8F4ECD00B2AFFB /* Search for a Range.h */,
 				A209681C1A8FDCBD00B2AFFB /* Search Insert Position.h */,
 				A209681D1A90429700B2AFFB /* Trapping Rain Water.h */,
+				A209681E1A9057AF00B2AFFB /* Jump Game II.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
