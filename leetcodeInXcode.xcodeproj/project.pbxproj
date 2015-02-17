@@ -38,6 +38,7 @@
 		A22066831A01F29D00ED6341 /* InputOutput.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InputOutput.h; sourceTree = "<group>"; };
 		A22066841A01F29D00ED6341 /* Numerics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Numerics.h; sourceTree = "<group>"; };
 		A221935D1A92E5640045E51D /* Jump Game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Jump Game.h"; sourceTree = "<group>"; };
+		A221935E1A92F0BA0045E51D /* Length of Last Word.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Length of Last Word.h"; sourceTree = "<group>"; };
 		A224A7AA1A4953DA005A5086 /* Majority Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Majority Element.h"; sourceTree = "<group>"; };
 		A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ZigZag Conversion.h"; sourceTree = "<group>"; };
 		A22D3E311A27EF4B007E4528 /* Unique Binary Search Trees.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Unique Binary Search Trees.h"; sourceTree = "<group>"; };
@@ -247,6 +248,7 @@
 				A209681D1A90429700B2AFFB /* Trapping Rain Water.h */,
 				A209681E1A9057AF00B2AFFB /* Jump Game II.h */,
 				A221935D1A92E5640045E51D /* Jump Game.h */,
+				A221935E1A92F0BA0045E51D /* Length of Last Word.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
