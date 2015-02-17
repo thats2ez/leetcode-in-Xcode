@@ -6,11 +6,13 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Search for a Range.h"
+#include "Rotate List.h"
 
 int main() {
     Solution s;
-    int A[] = {1};
-    auto result = s.searchRange(A, sizeof(A)/sizeof(int), 2);
+    ListNode head(1);
+    head.next = new ListNode(2);
+    head.next->next = new ListNode(3);
+    auto result = s.rotateRight(&head, 2);
     return 0;
 }
