@@ -41,6 +41,7 @@
 		A221935E1A92F0BA0045E51D /* Length of Last Word.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Length of Last Word.h"; sourceTree = "<group>"; };
 		A221935F1A930A6A0045E51D /* Rotate List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Rotate List.h"; sourceTree = "<group>"; };
 		A22193601A931D520045E51D /* Unique Paths II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Unique Paths II.h"; sourceTree = "<group>"; };
+		A22193611A932DEE0045E51D /* Add Binary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Add Binary.h"; sourceTree = "<group>"; };
 		A224A7AA1A4953DA005A5086 /* Majority Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Majority Element.h"; sourceTree = "<group>"; };
 		A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ZigZag Conversion.h"; sourceTree = "<group>"; };
 		A22D3E311A27EF4B007E4528 /* Unique Binary Search Trees.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Unique Binary Search Trees.h"; sourceTree = "<group>"; };
@@ -253,6 +254,7 @@
 				A221935E1A92F0BA0045E51D /* Length of Last Word.h */,
 				A221935F1A930A6A0045E51D /* Rotate List.h */,
 				A22193601A931D520045E51D /* Unique Paths II.h */,
+				A22193611A932DEE0045E51D /* Add Binary.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
