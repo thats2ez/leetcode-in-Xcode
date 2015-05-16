@@ -6,10 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Add Binary.h"
+#include "Repeated DNA Sequences.h"
 
 int main() {
     Solution s;
-    auto result = s.addBinary("1010", "1011");
+    string str = "AAAAAAAAAA";
+    auto result = s.findRepeatedDnaSequences(str);
     return 0;
 }

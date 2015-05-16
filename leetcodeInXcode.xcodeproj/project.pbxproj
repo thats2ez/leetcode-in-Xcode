@@ -53,6 +53,8 @@
 		A22D3E371A287D50007E4528 /* Binary Tree Preorder Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Tree Preorder Traversal.h"; sourceTree = "<group>"; };
 		A22D3E381A288208007E4528 /* Rotate Image.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Rotate Image.h"; sourceTree = "<group>"; };
 		A232651D1A01D99E007F6C77 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
+		A23A100F1A9340DE0006068B /* Sort Colors.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sort Colors.h"; sourceTree = "<group>"; };
+		A23A10101A9435020006068B /* Search in Rotated Sorted Array II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Search in Rotated Sorted Array II.h"; sourceTree = "<group>"; };
 		A23A7C001A69D85500CA25AA /* Dungeon Game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Dungeon Game.h"; sourceTree = "<group>"; };
 		A23ABB2B1A3AC0410015BDA0 /* Binary Tree Level Order Traversal II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Tree Level Order Traversal II.h"; sourceTree = "<group>"; };
 		A23ABB2C1A3AC9E00015BDA0 /* Find Peak Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Find Peak Element.h"; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		A26F4DBC1A3FC3FF00DC45B2 /* Longest Palindromic Substring.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Palindromic Substring.h"; sourceTree = "<group>"; };
 		A26F4DBD1A3FDE3700DC45B2 /* Path Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum.h"; sourceTree = "<group>"; };
 		A26F4DBE1A3FE65600DC45B2 /* Longest Substring Without Repeating Characters.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Substring Without Repeating Characters.h"; sourceTree = "<group>"; };
+		A26FFDF61B07AF900040DDF8 /* Repeated DNA Sequences.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Repeated DNA Sequences.h"; sourceTree = "<group>"; };
 		A2719BA11A53FAAB00C6A613 /* Excel Sheet Column Title.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Title.h"; sourceTree = "<group>"; };
 		A2719BA21A53FC1500C6A613 /* Excel Sheet Column Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Number.h"; sourceTree = "<group>"; };
 		A2719BA31A54058C00C6A613 /* Binary Search Tree Iterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Search Tree Iterator.h"; sourceTree = "<group>"; };
@@ -255,6 +258,9 @@
 				A221935F1A930A6A0045E51D /* Rotate List.h */,
 				A22193601A931D520045E51D /* Unique Paths II.h */,
 				A22193611A932DEE0045E51D /* Add Binary.h */,
+				A23A100F1A9340DE0006068B /* Sort Colors.h */,
+				A23A10101A9435020006068B /* Search in Rotated Sorted Array II.h */,
+				A26FFDF61B07AF900040DDF8 /* Repeated DNA Sequences.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
