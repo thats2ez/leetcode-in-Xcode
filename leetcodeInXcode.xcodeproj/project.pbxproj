@@ -102,6 +102,7 @@
 		A26F4DBD1A3FDE3700DC45B2 /* Path Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum.h"; sourceTree = "<group>"; };
 		A26F4DBE1A3FE65600DC45B2 /* Longest Substring Without Repeating Characters.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Substring Without Repeating Characters.h"; sourceTree = "<group>"; };
 		A26FFDF61B07AF900040DDF8 /* Repeated DNA Sequences.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Repeated DNA Sequences.h"; sourceTree = "<group>"; };
+		A26FFDF71B083CB70040DDF8 /* Rotate Array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Rotate Array.h"; sourceTree = "<group>"; };
 		A2719BA11A53FAAB00C6A613 /* Excel Sheet Column Title.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Title.h"; sourceTree = "<group>"; };
 		A2719BA21A53FC1500C6A613 /* Excel Sheet Column Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Number.h"; sourceTree = "<group>"; };
 		A2719BA31A54058C00C6A613 /* Binary Search Tree Iterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Search Tree Iterator.h"; sourceTree = "<group>"; };
@@ -261,6 +262,7 @@
 				A23A100F1A9340DE0006068B /* Sort Colors.h */,
 				A23A10101A9435020006068B /* Search in Rotated Sorted Array II.h */,
 				A26FFDF61B07AF900040DDF8 /* Repeated DNA Sequences.h */,
+				A26FFDF71B083CB70040DDF8 /* Rotate Array.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";

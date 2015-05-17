@@ -6,11 +6,11 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Repeated DNA Sequences.h"
+#include "Rotate Array.h"
 
 int main() {
     Solution s;
-    string str = "AAAAAAAAAA";
-    auto result = s.findRepeatedDnaSequences(str);
+    vector<int> a{1,2,3,4};
+    s.rotate(a, 3);
     return 0;
 }
