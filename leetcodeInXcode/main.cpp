@@ -6,11 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Rotate Array.h"
+#include "Reverse Bits.h"
 
 int main() {
     Solution s;
-    vector<int> a{1,2,3,4};
-    s.rotate(a, 3);
+    auto result = s.reverseBits(1);
     return 0;
 }
