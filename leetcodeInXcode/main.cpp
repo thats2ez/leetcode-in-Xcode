@@ -6,10 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Reverse Bits.h"
+#include "Happy Number.h"
 
 int main() {
     Solution s;
-    auto result = s.reverseBits(1);
+    auto result = s.isHappy(2);
     return 0;
 }
