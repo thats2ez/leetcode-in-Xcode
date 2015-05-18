@@ -6,10 +6,10 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Happy Number.h"
+#include "Count Primes.h"
 
 int main() {
     Solution s;
-    auto result = s.isHappy(2);
+    auto result = s.countPrimes(999983);
     return 0;
 }
