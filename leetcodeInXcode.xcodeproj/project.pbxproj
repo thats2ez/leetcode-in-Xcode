@@ -107,6 +107,7 @@
 		A26FFDF91B09CBEA0040DDF8 /* House Robber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "House Robber.h"; sourceTree = "<group>"; };
 		A26FFDFA1B09D1060040DDF8 /* Binary Tree Right Side View.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Tree Right Side View.h"; sourceTree = "<group>"; };
 		A26FFDFB1B09D7930040DDF8 /* Number of Islands.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Number of Islands.h"; sourceTree = "<group>"; };
+		A26FFDFC1B09E0FD0040DDF8 /* Bitwise AND of Numbers Range.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Bitwise AND of Numbers Range.h"; sourceTree = "<group>"; };
 		A2719BA11A53FAAB00C6A613 /* Excel Sheet Column Title.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Title.h"; sourceTree = "<group>"; };
 		A2719BA21A53FC1500C6A613 /* Excel Sheet Column Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Number.h"; sourceTree = "<group>"; };
 		A2719BA31A54058C00C6A613 /* Binary Search Tree Iterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Search Tree Iterator.h"; sourceTree = "<group>"; };
@@ -271,6 +272,7 @@
 				A26FFDF91B09CBEA0040DDF8 /* House Robber.h */,
 				A26FFDFA1B09D1060040DDF8 /* Binary Tree Right Side View.h */,
 				A26FFDFB1B09D7930040DDF8 /* Number of Islands.h */,
+				A26FFDFC1B09E0FD0040DDF8 /* Bitwise AND of Numbers Range.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
