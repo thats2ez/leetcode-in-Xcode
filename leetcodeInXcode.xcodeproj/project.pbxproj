@@ -111,6 +111,7 @@
 		A26FFDFD1B09E8A50040DDF8 /* Happy Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Happy Number.h"; sourceTree = "<group>"; };
 		A26FFDFE1B0A52CE0040DDF8 /* Remove Linked List Elements.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Remove Linked List Elements.h"; sourceTree = "<group>"; };
 		A26FFDFF1B0AA6350040DDF8 /* Count Primes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Count Primes.h"; sourceTree = "<group>"; };
+		A26FFE001B0ABEB20040DDF8 /* Isomorphic Strings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Isomorphic Strings.h"; sourceTree = "<group>"; };
 		A2719BA11A53FAAB00C6A613 /* Excel Sheet Column Title.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Title.h"; sourceTree = "<group>"; };
 		A2719BA21A53FC1500C6A613 /* Excel Sheet Column Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Number.h"; sourceTree = "<group>"; };
 		A2719BA31A54058C00C6A613 /* Binary Search Tree Iterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Search Tree Iterator.h"; sourceTree = "<group>"; };
@@ -279,6 +280,7 @@
 				A26FFDFD1B09E8A50040DDF8 /* Happy Number.h */,
 				A26FFDFE1B0A52CE0040DDF8 /* Remove Linked List Elements.h */,
 				A26FFDFF1B0AA6350040DDF8 /* Count Primes.h */,
+				A26FFE001B0ABEB20040DDF8 /* Isomorphic Strings.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
