@@ -116,6 +116,7 @@
 		A26FFE021B0BB56F0040DDF8 /* Course Schedule.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Course Schedule.h"; sourceTree = "<group>"; };
 		A26FFE031B0C03750040DDF8 /* Implement Trie (Prefix Tree).h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Implement Trie (Prefix Tree).h"; sourceTree = "<group>"; };
 		A26FFE041B0C11FE0040DDF8 /* Minimum Size Subarray Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Minimum Size Subarray Sum.h"; sourceTree = "<group>"; };
+		A26FFE051B0C346C0040DDF8 /* Course Schedule II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Course Schedule II.h"; sourceTree = "<group>"; };
 		A2719BA11A53FAAB00C6A613 /* Excel Sheet Column Title.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Title.h"; sourceTree = "<group>"; };
 		A2719BA21A53FC1500C6A613 /* Excel Sheet Column Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Excel Sheet Column Number.h"; sourceTree = "<group>"; };
 		A2719BA31A54058C00C6A613 /* Binary Search Tree Iterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Search Tree Iterator.h"; sourceTree = "<group>"; };
@@ -289,6 +290,7 @@
 				A26FFE021B0BB56F0040DDF8 /* Course Schedule.h */,
 				A26FFE031B0C03750040DDF8 /* Implement Trie (Prefix Tree).h */,
 				A26FFE041B0C11FE0040DDF8 /* Minimum Size Subarray Sum.h */,
+				A26FFE051B0C346C0040DDF8 /* Course Schedule II.h */,
 			);
 			path = Solution;
 			sourceTree = "<group>";
