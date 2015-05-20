@@ -6,11 +6,14 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Course Schedule II.h"
+#include "Word Search II.h"
 
 int main() {
     Solution s;
-    vector<pair<int, int>> prerequisites{pair<int, int>(1, 0)};
-    auto result = s.findOrder(2, prerequisites);
+//    vector<vector<char>> board = {{'a', 'a', 'a', 'a'},{'a', 'a', 'a', 'a'},{'a', 'a', 'a', 'a'}};
+//    vector<string> words = {"aaaaaaaaaaaa","aaaaaaaaaaaaa","aaaaaaaaaaab"};
+    vector<vector<char>> board = {{'a','b'},{'c','d'}};
+    vector<string> words = {"cdba"};
+    auto result = s.findWords(board, words);
     return 0;
 }
