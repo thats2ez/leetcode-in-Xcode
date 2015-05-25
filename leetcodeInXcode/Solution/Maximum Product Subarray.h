@@ -32,3 +32,39 @@ public:
         return max_product < 0 ? local_min : max_product;
     }
 };
+
+/*
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        int n = nums.size(), best = INT_MIN, neg = INT_MAX, pos = INT_MIN;
+        for (int i = 0; i < n; i++) {
+            int next_neg = INT_MAX, next_pos = INT_MIN;
+            if (nums[i] >= 0) {
+                if (neg < 0) {
+                    next_neg = neg * nums[i];
+                }
+                next_pos = nums[i];
+                if (pos > 1) {
+                    next_pos *= pos;
+                }
+            }
+            
+            if (nums[i] < 0) {
+                if (neg < 0) {
+                    next_pos = neg * nums[i];
+                }
+                next_neg = nums[i];
+                if (pos > 1) {
+                    next_neg *= pos;
+                }
+            }
+            neg = next_neg;
+            pos = next_pos;
+            best = max(best, pos);
+        }
+        return best >= 0 ? best : neg;
+    }
+};
+
+*/
