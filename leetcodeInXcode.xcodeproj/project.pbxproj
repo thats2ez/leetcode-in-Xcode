@@ -39,6 +39,7 @@
 		A21A79D91B1A5BFB00BDD366 /* Subtree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Subtree.h; sourceTree = "<group>"; };
 		A21A79DA1B1A5D9400BDD366 /* Coins in a Line.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Coins in a Line.h"; sourceTree = "<group>"; };
 		A21A79DB1B1A6C6C00BDD366 /* Coins in a Line II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Coins in a Line II.h"; sourceTree = "<group>"; };
+		A21A79DC1B1A893D00BDD366 /* Coins in a Line III.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Coins in a Line III.h"; sourceTree = "<group>"; };
 		A21D7E701B13C1AF006CCB2A /* Shortest Palindrome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Shortest Palindrome.h"; sourceTree = "<group>"; };
 		A21D7E711B13F820006CCB2A /* Combination Sum III.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum III.h"; sourceTree = "<group>"; };
 		A21D7E721B14F227006CCB2A /* tenary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = tenary.h; path = Solution/tenary.h; sourceTree = "<group>"; };
@@ -181,6 +182,7 @@
 				A21A79D91B1A5BFB00BDD366 /* Subtree.h */,
 				A21A79DA1B1A5D9400BDD366 /* Coins in a Line.h */,
 				A21A79DB1B1A6C6C00BDD366 /* Coins in a Line II.h */,
+				A21A79DC1B1A893D00BDD366 /* Coins in a Line III.h */,
 			);
 			name = lintcode;
 			path = Solution;
