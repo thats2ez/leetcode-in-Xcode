@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Triangle Count.h"
+#include "Assignment Operator Overloading.h"
 //#include "tenary.h"
 
 int main() {
@@ -20,7 +20,7 @@ int main() {
 //    auto result4 = parse("a?b?c?d:e:f:g");
 //    auto result5 = parse("a?b:c?d:e?f:g");
     Solution s;
-    vector<int> values = {4, 4, 4, 4};
-    auto result = s.triangleCount(values);
+    Solution s1;
+    s = s1;
     return 0;
 }
