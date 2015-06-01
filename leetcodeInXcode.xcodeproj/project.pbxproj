@@ -46,6 +46,7 @@
 		A21A79E01B1C235500BDD366 /* Longest Substring with At Most K Distinct Characters.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Substring with At Most K Distinct Characters.h"; sourceTree = "<group>"; };
 		A21A79E11B1C2A5200BDD366 /* Segment Tree Build.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Segment Tree Build.h"; sourceTree = "<group>"; };
 		A21A79E21B1C2E6A00BDD366 /* Segment Tree Query.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Segment Tree Query.h"; sourceTree = "<group>"; };
+		A21A79E31B1C34E800BDD366 /* Segment Tree Modify.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Segment Tree Modify.h"; sourceTree = "<group>"; };
 		A21D7E701B13C1AF006CCB2A /* Shortest Palindrome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Shortest Palindrome.h"; sourceTree = "<group>"; };
 		A21D7E711B13F820006CCB2A /* Combination Sum III.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum III.h"; sourceTree = "<group>"; };
 		A21D7E721B14F227006CCB2A /* tenary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = tenary.h; path = Solution/tenary.h; sourceTree = "<group>"; };
@@ -195,6 +196,7 @@
 				A21A79E01B1C235500BDD366 /* Longest Substring with At Most K Distinct Characters.h */,
 				A21A79E11B1C2A5200BDD366 /* Segment Tree Build.h */,
 				A21A79E21B1C2E6A00BDD366 /* Segment Tree Query.h */,
+				A21A79E31B1C34E800BDD366 /* Segment Tree Modify.h */,
 			);
 			name = lintcode;
 			path = Solution;
