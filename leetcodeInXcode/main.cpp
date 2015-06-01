@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Assignment Operator Overloading.h"
+#include "Longest Substring with At Most K Distinct Characters.h"
 //#include "tenary.h"
 
 int main() {
@@ -20,7 +20,7 @@ int main() {
 //    auto result4 = parse("a?b?c?d:e:f:g");
 //    auto result5 = parse("a?b:c?d:e?f:g");
     Solution s;
-    Solution s1;
-    s = s1;
+    auto result = s.lengthOfLongestSubstringKDistinct("abbcce", 2);
+
     return 0;
 }
