@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Longest Substring with At Most K Distinct Characters.h"
+#include "Route Between Two Nodes in Graph.h"
 //#include "tenary.h"
 
 int main() {
@@ -20,7 +20,6 @@ int main() {
 //    auto result4 = parse("a?b?c?d:e:f:g");
 //    auto result5 = parse("a?b:c?d:e?f:g");
     Solution s;
-    auto result = s.lengthOfLongestSubstringKDistinct("abbcce", 2);
-
+    auto result = s.hasRoute(vector<DirectedGraphNode *>(), nullptr, nullptr);
     return 0;
 }
