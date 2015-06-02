@@ -53,3 +53,32 @@ private:
         return i == str.length() ? "0" : str.substr(i, str.length() - i);
     }
 };
+
+//class Solution {
+//public:
+//    /**
+//     *@param num: A list of non negative integers
+//     *@return: A string
+//     */
+//    string largestNumber(vector<int> &num) {
+//        // write your code here
+//        if (num.empty()) return string();
+//        vector<string> str;
+//        for (int i : num) {
+//            str.push_back(to_string(i));
+//        }
+//        sort(str.begin(), str.end(), cmp);
+//        string result = accumulate(str.begin(), str.end(), string(""));
+//        int i = 0;
+//        while (i < result.length() && result[i] == '0') {
+//            i++;
+//        }
+//        i = min(i, (int)result.length() - 1);
+//        return result.substr(i, result.length() - i);
+//    }
+//    
+//private:
+//    static bool cmp(const string &a, const string &b) {
+//        return (a + b) > (b + a);
+//    }
+//};
