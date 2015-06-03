@@ -114,6 +114,7 @@
 		A263853E1B1E5824008027DB /* Delete Digits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Delete Digits.h"; sourceTree = "<group>"; };
 		A263853F1B1E6ABF008027DB /* Route Between Two Nodes in Graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Route Between Two Nodes in Graph.h"; sourceTree = "<group>"; };
 		A26385401B1E6F70008027DB /* Minimum Depth of Binary Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Minimum Depth of Binary Tree.h"; sourceTree = "<group>"; };
+		A26385411B1E9E5E008027DB /* Interleaving Positive and Negative Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Interleaving Positive and Negative Numbers.h"; sourceTree = "<group>"; };
 		A26E0F961A22D81D00B02EAB /* Path Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum II.h"; sourceTree = "<group>"; };
 		A26E0F971A23026100B02EAB /* Convert Sorted List to Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Convert Sorted List to Binary Search Tree.h"; sourceTree = "<group>"; };
 		A26E0F981A23102700B02EAB /* Permutation Sequence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Permutation Sequence.h"; sourceTree = "<group>"; };
@@ -209,6 +210,7 @@
 				A263853E1B1E5824008027DB /* Delete Digits.h */,
 				A263853F1B1E6ABF008027DB /* Route Between Two Nodes in Graph.h */,
 				A26385401B1E6F70008027DB /* Minimum Depth of Binary Tree.h */,
+				A26385411B1E9E5E008027DB /* Interleaving Positive and Negative Numbers.h */,
 			);
 			name = lintcode;
 			path = Solution;
