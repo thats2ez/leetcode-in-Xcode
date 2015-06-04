@@ -16,25 +16,47 @@ public:
 //        return longest;
 //    }
 
+//    int longestConsecutive(vector<int> &num) {
+//        unordered_map<int, bool> found;
+//        for (int i : num) {
+//            found[i] = true;
+//        }
+//        int longest = 0;
+//        while (!found.empty()) {
+//            int cur = 1;
+//            for (int i = found.begin()->first - 1; found.find(i) != found.end(); i--) {
+//                cur++;
+//                found.erase(found.find(i));
+//            }
+//            for (int i = found.begin()->first + 1; found.find(i) != found.end(); i++) {
+//                cur++;
+//                found.erase(found.find(i));
+//            }
+//            found.erase(found.begin());
+//            longest = max(longest, cur);
+//        }
+//        return longest;
+//    }
+    
     int longestConsecutive(vector<int> &num) {
-        unordered_map<int, bool> found;
+        // write you code here
+        unordered_map<int, int> len;
         for (int i : num) {
-            found[i] = true;
+            len[i] = 1;
         }
-        int longest = 0;
-        while (!found.empty()) {
-            int cur = 1;
-            for (int i = found.begin()->first - 1; found.find(i) != found.end(); i--) {
-                cur++;
-                found.erase(found.find(i));
+        
+        for (auto it = len.begin(); it != len.end(); it++) {
+            for (int i = it->first + it->second; len.find(i) != len.end(); i = it->first + it->second) {
+                it->second += len[i];
+                len.erase(i);
             }
-            for (int i = found.begin()->first + 1; found.find(i) != found.end(); i++) {
-                cur++;
-                found.erase(found.find(i));
-            }
-            found.erase(found.begin());
-            longest = max(longest, cur);
         }
-        return longest;
+        
+        int result = 0;
+        for (auto it = len.begin(); it != len.end(); it++) {
+            result = max(result, it->second);
+        }
+        
+        return result;
     }
 };
