@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Longest Consecutive Sequence.h"
+#include "Minimum Adjustment Cost.h"
 //#include "tenary.h"
 
 int main() {
@@ -20,7 +20,8 @@ int main() {
 //    auto result4 = parse("a?b?c?d:e:f:g");
 //    auto result5 = parse("a?b:c?d:e?f:g");
     Solution s;
-    vector<int> v = {1,2,0,1};
-    auto result = s.longestConsecutive(v);
+    vector<int> v = {11,11,3,5,11,16,12,11,15,11,16,16,16,16,16,11,16};
+    auto result = s.MinAdjustmentCost(v, 0);
+    cout << result << endl;
     return 0;
 }

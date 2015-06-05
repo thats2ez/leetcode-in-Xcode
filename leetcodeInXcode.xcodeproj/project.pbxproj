@@ -119,6 +119,7 @@
 		A26385431B1EBB57008027DB /* Subarray Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Subarray Sum.h"; sourceTree = "<group>"; };
 		A26385461B1FC169008027DB /* Rehashing.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Rehashing.h; sourceTree = "<group>"; };
 		A26385471B211F91008027DB /* Minimum Adjustment Cost.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Minimum Adjustment Cost.h"; sourceTree = "<group>"; };
+		A26385481B2238AF008027DB /* Interval Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Interval Sum.h"; sourceTree = "<group>"; };
 		A26E0F961A22D81D00B02EAB /* Path Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum II.h"; sourceTree = "<group>"; };
 		A26E0F971A23026100B02EAB /* Convert Sorted List to Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Convert Sorted List to Binary Search Tree.h"; sourceTree = "<group>"; };
 		A26E0F981A23102700B02EAB /* Permutation Sequence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Permutation Sequence.h"; sourceTree = "<group>"; };
@@ -219,6 +220,7 @@
 				A26385431B1EBB57008027DB /* Subarray Sum.h */,
 				A26385461B1FC169008027DB /* Rehashing.h */,
 				A26385471B211F91008027DB /* Minimum Adjustment Cost.h */,
+				A26385481B2238AF008027DB /* Interval Sum.h */,
 			);
 			name = lintcode;
 			path = Solution;
