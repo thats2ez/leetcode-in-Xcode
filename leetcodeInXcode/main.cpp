@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Minimum Adjustment Cost.h"
+#include "Interval Sum II.h"
 //#include "tenary.h"
 
 int main() {
@@ -19,9 +19,13 @@ int main() {
 //    auto result3 = parse("a?b?c:d:e");
 //    auto result4 = parse("a?b?c?d:e:f:g");
 //    auto result5 = parse("a?b:c?d:e?f:g");
-    Solution s;
-    vector<int> v = {11,11,3,5,11,16,12,11,15,11,16,16,16,16,16,11,16};
-    auto result = s.MinAdjustmentCost(v, 0);
-    cout << result << endl;
+
+    vector<int> v = {1,2,7,8,5};
+    Solution s(v);
+    cout << s.query(0,2) << endl;
+    s.modify(0,4);
+    cout << s.query(0,1) << endl;
+    s.modify(2,1);
+    cout << s.query(2,4) << endl;;
     return 0;
 }
