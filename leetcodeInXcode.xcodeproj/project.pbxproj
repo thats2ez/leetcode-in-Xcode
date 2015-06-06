@@ -122,6 +122,7 @@
 		A26385481B2238AF008027DB /* Interval Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Interval Sum.h"; sourceTree = "<group>"; };
 		A26385491B2244AD008027DB /* Interval Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Interval Sum II.h"; sourceTree = "<group>"; };
 		A263854A1B229036008027DB /* Interval Minimum Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Interval Minimum Number.h"; sourceTree = "<group>"; };
+		A263854B1B22A47D008027DB /* Lowest Common Ancestor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lowest Common Ancestor.h"; sourceTree = "<group>"; };
 		A26E0F961A22D81D00B02EAB /* Path Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum II.h"; sourceTree = "<group>"; };
 		A26E0F971A23026100B02EAB /* Convert Sorted List to Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Convert Sorted List to Binary Search Tree.h"; sourceTree = "<group>"; };
 		A26E0F981A23102700B02EAB /* Permutation Sequence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Permutation Sequence.h"; sourceTree = "<group>"; };
@@ -225,6 +226,7 @@
 				A26385481B2238AF008027DB /* Interval Sum.h */,
 				A26385491B2244AD008027DB /* Interval Sum II.h */,
 				A263854A1B229036008027DB /* Interval Minimum Number.h */,
+				A263854B1B22A47D008027DB /* Lowest Common Ancestor.h */,
 			);
 			name = lintcode;
 			path = Solution;
