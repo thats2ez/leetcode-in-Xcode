@@ -125,6 +125,7 @@
 		A263854B1B22A47D008027DB /* Lowest Common Ancestor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lowest Common Ancestor.h"; sourceTree = "<group>"; };
 		A263854C1B22ADA5008027DB /* Insert Node in a Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insert Node in a Binary Search Tree.h"; sourceTree = "<group>"; };
 		A263854D1B22BBDF008027DB /* Data Stream Median.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Data Stream Median.h"; sourceTree = "<group>"; };
+		A263854E1B239F13008027DB /* First Bad Version.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "First Bad Version.h"; sourceTree = "<group>"; };
 		A26E0F961A22D81D00B02EAB /* Path Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum II.h"; sourceTree = "<group>"; };
 		A26E0F971A23026100B02EAB /* Convert Sorted List to Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Convert Sorted List to Binary Search Tree.h"; sourceTree = "<group>"; };
 		A26E0F981A23102700B02EAB /* Permutation Sequence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Permutation Sequence.h"; sourceTree = "<group>"; };
@@ -231,6 +232,7 @@
 				A263854B1B22A47D008027DB /* Lowest Common Ancestor.h */,
 				A263854C1B22ADA5008027DB /* Insert Node in a Binary Search Tree.h */,
 				A263854D1B22BBDF008027DB /* Data Stream Median.h */,
+				A263854E1B239F13008027DB /* First Bad Version.h */,
 			);
 			name = lintcode;
 			path = Solution;
