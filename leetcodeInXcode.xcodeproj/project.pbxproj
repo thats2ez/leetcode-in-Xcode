@@ -129,6 +129,8 @@
 		A263854F1B242AE6008027DB /* Compare Strings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Compare Strings.h"; sourceTree = "<group>"; };
 		A26385501B243EB4008027DB /* Product of Array Exclude Itself.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Product of Array Exclude Itself.h"; sourceTree = "<group>"; };
 		A26385511B24CF5A008027DB /* Sort Letters by Case.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sort Letters by Case.h"; sourceTree = "<group>"; };
+		A26385521B24DFA1008027DB /* Maximum Subarray Difference.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Maximum Subarray Difference.h"; sourceTree = "<group>"; };
+		A26385531B24EC78008027DB /* Minimum Subarray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Minimum Subarray.h"; sourceTree = "<group>"; };
 		A26E0F961A22D81D00B02EAB /* Path Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Path Sum II.h"; sourceTree = "<group>"; };
 		A26E0F971A23026100B02EAB /* Convert Sorted List to Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Convert Sorted List to Binary Search Tree.h"; sourceTree = "<group>"; };
 		A26E0F981A23102700B02EAB /* Permutation Sequence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Permutation Sequence.h"; sourceTree = "<group>"; };
@@ -181,6 +183,8 @@
 		A2B7F5901A2585CC000DE070 /* Combination Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum.h"; sourceTree = "<group>"; };
 		A2B7F5911A2585E7000DE070 /* Combination Sum II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum II.h"; sourceTree = "<group>"; };
 		A2B7F5921A258BB2000DE070 /* Clone Graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Clone Graph.h"; sourceTree = "<group>"; };
+		A2B7FC011B4CF3A100272BD0 /* Number of Digit One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Number of Digit One.h"; sourceTree = "<group>"; };
+		A2BE8DBE1B51D52F00119AFF /* Lowest Common Ancestor of a Binary Search Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lowest Common Ancestor of a Binary Search Tree.h"; sourceTree = "<group>"; };
 		A2C0C9BA1A3EE1D800C15F48 /* Evaluate Reverse Polish Notation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Evaluate Reverse Polish Notation.h"; sourceTree = "<group>"; };
 		A2C248FD1A3E7BB800A5DC03 /* Maximum Gap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Maximum Gap.h"; sourceTree = "<group>"; };
 		A2C7783D1A12D8410097C2D0 /* Sudoku Solver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sudoku Solver.h"; sourceTree = "<group>"; };
@@ -239,6 +243,9 @@
 				A263854F1B242AE6008027DB /* Compare Strings.h */,
 				A26385501B243EB4008027DB /* Product of Array Exclude Itself.h */,
 				A26385511B24CF5A008027DB /* Sort Letters by Case.h */,
+				A26385521B24DFA1008027DB /* Maximum Subarray Difference.h */,
+				A26385531B24EC78008027DB /* Minimum Subarray.h */,
+				A2B7FC011B4CF3A100272BD0 /* Number of Digit One.h */,
 			);
 			name = lintcode;
 			path = Solution;
@@ -388,6 +395,7 @@
 				A2B7CF641A2FD47800472241 /* Word Ladder.h */,
 				A26FFE071B0C51320040DDF8 /* Word Search II.h */,
 				A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */,
+				A2BE8DBE1B51D52F00119AFF /* Lowest Common Ancestor of a Binary Search Tree.h */,
 			);
 			name = leetcode;
 			path = Solution;
