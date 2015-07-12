@@ -6,15 +6,13 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Number of Digit One.h"
-//#include "tenary.h"
+#include "Contains Duplicate III.h"
 
 int main() {
 
 
     Solution s;
-    cout << s.countDigitOne(-1) << endl;
-    cout << s.countDigitOne(9) << endl;
-    cout << s.countDigitOne(1410065408) << endl;
+    vector<int> v{-3, 3};
+    cout << s.containsNearbyAlmostDuplicate(v, 2, 4) << endl;
     return 0;
 }

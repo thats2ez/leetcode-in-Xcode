@@ -166,6 +166,7 @@
 		A2719BA61A5479FD00C6A613 /* Factorial Trailing Zeroes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Factorial Trailing Zeroes.h"; sourceTree = "<group>"; };
 		A27DBDC41A14075200495CAF /* Plus One.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plus One.h"; sourceTree = "<group>"; };
 		A27DBDC51A14183C00495CAF /* Min Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Min Stack.h"; sourceTree = "<group>"; };
+		A281470E1B51FD1F0030F4BD /* Contains Duplicate III.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Contains Duplicate III.h"; sourceTree = "<group>"; };
 		A28449231A575447008ECB92 /* N-Queens.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "N-Queens.h"; sourceTree = "<group>"; };
 		A28449241A5778B4008ECB92 /* N-Queens II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "N-Queens II.h"; sourceTree = "<group>"; };
 		A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Compare Version Numbers.h"; sourceTree = "<group>"; };
@@ -396,6 +397,7 @@
 				A26FFE071B0C51320040DDF8 /* Word Search II.h */,
 				A22D3E301A27E6D6007E4528 /* ZigZag Conversion.h */,
 				A2BE8DBE1B51D52F00119AFF /* Lowest Common Ancestor of a Binary Search Tree.h */,
+				A281470E1B51FD1F0030F4BD /* Contains Duplicate III.h */,
 			);
 			name = leetcode;
 			path = Solution;
