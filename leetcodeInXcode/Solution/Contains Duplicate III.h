@@ -21,8 +21,8 @@ public:
             int x = floor(double(i) / k);
             int y = t ? floor(double(nums[i]) / t) : nums[i];
             cout << x << " " << y << endl;
-            int arr_x[] = {0, 0, 0, 1, 1, 1, -1, -1, -1};
-            int arr_y[] = {0, 1, -1, 0, 1, -1, 0, 1, -1};
+            const static int arr_x[] = {0, 0, 0, 1, 1, 1, -1, -1, -1};
+            const static int arr_y[] = {0, 1, -1, 0, 1, -1, 0, 1, -1};
             for (int j = 0; j < sizeof(arr_x); j++) {
                 auto it = pos.find(make_point(x + arr_x[j], y + arr_y[j]));
                 if (it == pos.end()) {
@@ -41,6 +41,7 @@ public:
     }
     
 private:
+
     uint64_t make_point(int32_t x, int32_t y) {
         return (uint64_t(x) << 32) | uint64_t(uint32_t(y));
     }
