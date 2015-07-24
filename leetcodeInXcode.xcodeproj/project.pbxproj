@@ -180,6 +180,7 @@
 		A2998B241B61DA0C00F910F6 /* Search a 2D Matrix II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Search a 2D Matrix II.h"; sourceTree = "<group>"; };
 		A2998B251B61FB6C00F910F6 /* Product of Array Except Self .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Product of Array Except Self .h"; sourceTree = "<group>"; };
 		A2998B261B620AFD00F910F6 /* Sliding Window Maximum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sliding Window Maximum.h"; sourceTree = "<group>"; };
+		A2998B271B620C8E00F910F6 /* Delete Node in a Linked List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Delete Node in a Linked List.h"; sourceTree = "<group>"; };
 		A2A614BD1A3BEC27004CB131 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
 		A2A614C11A3D27A8004CB131 /* Wildcard Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Wildcard Matching.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
@@ -408,6 +409,7 @@
 				A2998B241B61DA0C00F910F6 /* Search a 2D Matrix II.h */,
 				A2998B251B61FB6C00F910F6 /* Product of Array Except Self .h */,
 				A2998B261B620AFD00F910F6 /* Sliding Window Maximum.h */,
+				A2998B271B620C8E00F910F6 /* Delete Node in a Linked List.h */,
 			);
 			name = leetcode;
 			path = Solution;
