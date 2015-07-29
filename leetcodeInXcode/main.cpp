@@ -6,13 +6,12 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Contains Duplicate III.h"
+#include "Roman to Integer.h"
 
 int main() {
 
 
     Solution s;
-    vector<int> v{-3, 3};
-    cout << s.containsNearbyAlmostDuplicate(v, 2, 4) << endl;
+    cout << s.romanToInt("DCXXI") << endl;
     return 0;
 }

@@ -173,6 +173,9 @@
 		A28C578F1B63555C00613D63 /* Summary Ranges.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Summary Ranges.h"; sourceTree = "<group>"; };
 		A28C57901B63585B00613D63 /* Power of Two.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Power of Two.h"; sourceTree = "<group>"; };
 		A28C57911B63598200613D63 /* Invert Binary Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Invert Binary Tree.h"; sourceTree = "<group>"; };
+		A28C57921B63769100613D63 /* Count Complete Tree Nodes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Count Complete Tree Nodes.h"; sourceTree = "<group>"; };
+		A28C57931B68805F00613D63 /* Basic Calculator II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Basic Calculator II.h"; sourceTree = "<group>"; };
+		A28C57941B68942F00613D63 /* Roman to Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Roman to Integer.h"; sourceTree = "<group>"; };
 		A2930E7A1A41537F0094B31E /* Compare Version Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Compare Version Numbers.h"; sourceTree = "<group>"; };
 		A2930E7B1A416F950094B31E /* Fraction to Recurring Decimal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Fraction to Recurring Decimal.h"; sourceTree = "<group>"; };
 		A2930E7C1A4244D40094B31E /* Palindrome Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Palindrome Number.h"; sourceTree = "<group>"; };
@@ -418,6 +421,9 @@
 				A28C578F1B63555C00613D63 /* Summary Ranges.h */,
 				A28C57901B63585B00613D63 /* Power of Two.h */,
 				A28C57911B63598200613D63 /* Invert Binary Tree.h */,
+				A28C57921B63769100613D63 /* Count Complete Tree Nodes.h */,
+				A28C57931B68805F00613D63 /* Basic Calculator II.h */,
+				A28C57941B68942F00613D63 /* Roman to Integer.h */,
 			);
 			name = leetcode;
 			path = Solution;
