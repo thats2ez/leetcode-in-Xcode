@@ -193,6 +193,7 @@
 		A2A614C11A3D27A8004CB131 /* Wildcard Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Wildcard Matching.h"; sourceTree = "<group>"; };
 		A2AA98521A19CFB2001ADE46 /* Longest Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Valid Parentheses.h"; sourceTree = "<group>"; };
 		A2AE411D1B752B5600431784 /* Valid Anagram.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Valid Anagram.h"; sourceTree = "<group>"; };
+		A2AE411E1B755C9300431784 /* Different Ways to Add Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Different Ways to Add Parentheses.h"; sourceTree = "<group>"; };
 		A2B7CF641A2FD47800472241 /* Word Ladder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Word Ladder.h"; sourceTree = "<group>"; };
 		A2B7CF651A301A7300472241 /* Word Ladder II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Word Ladder II.h"; sourceTree = "<group>"; };
 		A2B7F5901A2585CC000DE070 /* Combination Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Combination Sum.h"; sourceTree = "<group>"; };
@@ -428,6 +429,7 @@
 				A28C57941B68942F00613D63 /* Roman to Integer.h */,
 				A28C57951B68A84C00613D63 /* One Edit Distance.h */,
 				A2AE411D1B752B5600431784 /* Valid Anagram.h */,
+				A2AE411E1B755C9300431784 /* Different Ways to Add Parentheses.h */,
 			);
 			name = leetcode;
 			path = Solution;

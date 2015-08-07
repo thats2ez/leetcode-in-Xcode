@@ -6,12 +6,15 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Roman to Integer.h"
+#include "Different Ways to Add Parentheses.h"
 
 int main() {
 
 
     Solution s;
-    cout << s.romanToInt("DCXXI") << endl;
+    auto result = s.diffWaysToCompute("0+1");
+    for (auto i : result) {
+        cout << i << endl;
+    }
     return 0;
 }
