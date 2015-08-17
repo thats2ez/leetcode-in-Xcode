@@ -207,6 +207,7 @@
 		A2D008651B60CBDE00C0BBA0 /* Lowest Common Ancestor of a Binary Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lowest Common Ancestor of a Binary Tree.h"; sourceTree = "<group>"; };
 		A2D42F1719FEC6ED0098F93B /* leetcodeInXcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcodeInXcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D42F1A19FEC6ED0098F93B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A2DFFF9C1B818A2000F6D83D /* Binary Tree Paths.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Binary Tree Paths.h"; sourceTree = "<group>"; };
 		A2E8ECD41A209316005C80FC /* Substring with Concatenation of All Words.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Substring with Concatenation of All Words.h"; sourceTree = "<group>"; };
 		A2F4C3C81A3A54D800D30458 /* Surrounded Regions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Surrounded Regions.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -430,6 +431,7 @@
 				A28C57951B68A84C00613D63 /* One Edit Distance.h */,
 				A2AE411D1B752B5600431784 /* Valid Anagram.h */,
 				A2AE411E1B755C9300431784 /* Different Ways to Add Parentheses.h */,
+				A2DFFF9C1B818A2000F6D83D /* Binary Tree Paths.h */,
 			);
 			name = leetcode;
 			path = Solution;
