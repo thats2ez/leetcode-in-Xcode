@@ -6,15 +6,13 @@
 //  Copyright (c) 2014年 edu.self. All rights reserved.
 //
 
-#include "Different Ways to Add Parentheses.h"
+#include "The Skyline Problem.h"
 
 int main() {
 
 
     Solution s;
-    auto result = s.diffWaysToCompute("0+1");
-    for (auto i : result) {
-        cout << i << endl;
-    }
+    vector<vector<int>> buildings = {{0, 1, 3}};
+    auto result = s.getSkyline(buildings);
     return 0;
 }
